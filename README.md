@@ -1,16 +1,12 @@
-### Hi there 👋
+```js
 
-<!--
-**ljosberinn/ljosberinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const readmePlease = {
+  greetings: "stranger 👋",
+  iAm: "Gerrit Alex",
+  usually: "building things",
+  in: "TypeScript, Full Stack",
+  currently: "neck deep in Next.js",
+  findMeOn: [{ twitter: "@gerrit_alex" }, { discord: "Chevron#6539" }],
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
