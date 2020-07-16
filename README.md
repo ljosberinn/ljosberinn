@@ -1,6 +1,6 @@
 ```js
 
-const readmePlease = {
+const readMePlease = {
   greetings: "stranger 👋",
   iAm: "Gerrit Alex",
   usually: "building things",
