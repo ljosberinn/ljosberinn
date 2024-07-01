@@ -4,7 +4,7 @@ const readMePlease = {
   greetings: "stranger 👋",
   iAm: "Gerrit Alex",
   usually: "building things",
-  in: "TypeScript, PHP, Java, LUA",
+  in: ["TypeScript", "PHP", "Java", "LUA"],
 };
 
 ```
